@@ -72,12 +72,3 @@ For consumers:
 Consumer 2 sent message Req to Broker
 Consumer 2 received message 7 from Broker
 ```
-
-## Authors
-
-* **Your Name**: \[Your email/contact information]
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
