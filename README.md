@@ -1,7 +1,5 @@
 # High-Performance-Computing
 
-Here's a sample `README.md` file for your MPI-based producer-consumer simulation code:
-
 ````markdown
 # MPI-based Producer-Consumer Simulation
 
