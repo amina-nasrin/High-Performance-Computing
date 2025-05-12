@@ -1,5 +1,3 @@
-# High-Performance-Computing
-
 # MPI-based Producer-Consumer Simulation
 
 This project simulates a producer-consumer system using MPI (Message Passing Interface) in C, where producers generate work items and send them to a broker, which then distributes them to consumers.
