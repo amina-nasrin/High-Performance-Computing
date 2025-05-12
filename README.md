@@ -27,7 +27,7 @@ This simulation demonstrates basic principles of parallel computing and communic
    Ensure that you have an MPI library installed. For OpenMPI, you can install it on Linux systems using:
    ```bash
    sudo apt-get install openmpi-bin openmpi-common libopenmpi-dev
-````
+
 
 2. **Compile the Program**:
    Use the `mpicc` compiler to compile the code:
